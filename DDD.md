@@ -15,7 +15,6 @@ style: |
 
     section {
         justify-content: start;
-        background-color: #b0c4de;
     }
 
 ---
